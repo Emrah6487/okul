@@ -1,1 +1,2 @@
 print("okul")
+print("okul")
