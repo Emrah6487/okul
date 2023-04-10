@@ -1,4 +1,4 @@
 print("okul")
 #okul projesi
 
-#kayıt,yoklama, ödev takibi vb.
+#kayıt,yoklama, ödev takibi vb. 
